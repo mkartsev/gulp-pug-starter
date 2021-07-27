@@ -1,0 +1,4 @@
+// corporate
+$(function () {
+  // code here...
+});
